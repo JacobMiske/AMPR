@@ -1,0 +1,26 @@
+Safety on Thursday 22.06 
+warner, eva, jacob
+
+Warner = Thermal hydraulics, lead specific, cooling the reactor, heat sink, LOCA, containment heat, 
+Jacob = LBE, critical safety functions, Rx power control method, coolant inventory methods, coolant P, prevent containment bypass
+
+thermal design basis 
+- How far away from melting fuel
+
+Reheating 
+- primary coolant shouldn't freeze up
+
+Steam generator break
+- Closing off HE w/water
+
+Expansion coefficient of coolant
+- thermal expansion effects on structure
+
+What shear stresses are seen
+-Design basis on S.S. 
+
+Power Point on Safety
+- Table 
+
+
+CRITICAL SAFETY FUNCTIONS PowerPoint
